@@ -1,7 +1,11 @@
 #  React Shift Hours Management System
-an employee management and scheduling app that allows…
+an employee management and scheduling app that allows… 
 * Managers to manage and schedule employees
 * Employees to view work schedules
+* Front React and Back Typescript
+
+## Backend-API Typescript (Nest)
+[backend-api-shift-working](https://github.com/Ketibansapi/react-shift-working-backend)
 
 ## Run locally
 
@@ -43,4 +47,4 @@ Wait for webpack to bundle then
 Open a browser and go to [http://localhost:8080](http://localhost:8080)
 
 ## Tech Stack
-Built with React, Node, MongoDB, Passport.js
+Built with React, Node (Nest and express), Typescript
